@@ -1,6 +1,6 @@
 import viteLogo from '/vite.svg'
 import profile from './assets/dataMahasiswa.json'
-import picture from './assets/newimage.JPG'
+import picture from './assets/newimage.jpg'
 import { useState, useEffect, useRef } from 'react'
 import './App.css'
 
